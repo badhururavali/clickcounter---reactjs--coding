@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg_container {
+  background-color: #f1f5f8;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 40px;
+}
+.heading {
+  color: #2d3a35;
+  font-family: Roboto;
+  font-size: 40px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  padding: 5px;
+}
+.counter {
+  color: #c20a72;
+  font-size: 40px;
+  font-weight: bold;
+}
+.paragraph {
+  color: #2d3a35;
+  font-family: Roboto;
+  font-size: 20px;
+}
+.button {
+  background-color: #007bff;
+  border-radius: 6px;
+  color: #f1f5f8;
+  border-style: none;
+  border-width: 0px;
+  height: 40px;
+  width: 150px;
+  cursor: pointer;
+}
